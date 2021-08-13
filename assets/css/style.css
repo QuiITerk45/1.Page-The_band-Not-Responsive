@@ -156,7 +156,7 @@ html{
 #slider .text-conent{
     position:absolute;
     bottom:47px;
-    color:black;
+    color:#fff;
     width:100%;
     text-align: center;
 }
